@@ -45,6 +45,24 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.4.8
+- **Wioska Wojowników całkiem od nowa i 3× większa** (mur 217×217 bloków): 15 wielkich wież (kamienny trzon, nadwieszone drewniane
+  piętro, galeria widokowa, stromy dach z gontów ze smoczą głową) i nowa brama z dwiema basztami. **Krata w bramie sama się podnosi
+  w dzień, a opada w nocy albo gdy przy bramie kręcą się potwory.** Zapukaj w kratę (prawy przycisk), żeby otworzyć ją na chwilę.
+- Ulice z latarniami i dzielnice: rolników (pola, wiatrak, spichlerz na palach), rzemieślników (kuźnia, garbarnia, stajnie, warsztat
+  cieśli, wędzarnia), mieszkalne, świątynna (kościół, cmentarz z kurhanami, święty gaj) i wojowników (dom wojowników, arena, koszary);
+  rynek ze straganami i plac przed twierdzą z fontannami.
+- **Twierdza jarla**: taras z reprezentacyjnymi schodami i wieżyczkami, dziedziniec z fontanną, dwa piętrowe skrzydła z krużgankami,
+  wielka sala miodowa z ucztą i tronem, ogród ze świętym drzewem, kuchnia z browarem, kaplica, wieża jarla i skarbiec.
+- **Domy o różnych kształtach**: dwór piętrowy, zagroda ze stodołą, dom kupca z wieżyczką, dom torfowy z trawiastym dachem, okrągła chata,
+  spichlerz na palach, dom z galerią, dom-wieża, dwór z dziedzińcem, karczma. Dawne małe chatki zostały jako najbiedniejsze.
+- **Wszystko urządzone w środku**: stoły z krzesłami i świecami, ławy, posłania ze skór, paleniska, regały z księgami, stojaki z bronią,
+  żyrandole z poroża, dywany, beczułki miodu, zioła i ryby pod belkami, skóry na ścianach.
+- **38 nowych bloków**: schody i płyty ze strzechy, desek i gontów, smołowane gonty, płot, furtka, drzwi, okiennice, okienko z błony,
+  smocza głowa, proporce, kaganek ścienny, Kołowrót Kraty, meble (stół, krzesło, posłanie, regał, stojak na broń, beczułka, skrzynia),
+  dywany, świece, żyrandol z poroża, latarnia, łańcuch z Runostali, pęki ziół, suszone ryby, skóra na ścianę.
+- Nowe wioski pojawiają się tylko w nowych (nieodwiedzonych) chunkach.
+
 ## Zmiany w 0.4.7
 - **Wyspy Świtu jeszcze wyższe**: każdy etap ma teraz 4064 bloki wysokości (maksimum gry), od y -2032 do 2031, i 15 pięter
   wysp zamiast 7. Mgła i przejście na inne wyspy dopiero powyżej y 1800 i poniżej -1800.
