@@ -29,3 +29,12 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
 - **Midgard**: nowe budowle — długi dom jarla, gród z palisadą, kościół klepkowy, kurhan królewski z kamienną łodzią,
   wieża strażnicza, kuźnia run + 5 nowych budowli w jaskiniach.
 - Nowy teren pojawia się tylko w nowych (nieodwiedzonych) chunkach.
+
+## Zmiany w 0.4.1
+- **Baron** przebudowany od zera: 5 bloków wzrostu, wygląd jak Baron of Hell z DOOM Eternal (kamienna skóra z pęknięciami lawy,
+  płonące przedramiona, wielkie rogi), rzuca kule ognia, uderzenie w ziemię puszcza falę ognia, 260 HP. Baron z Mieczami — płonące ostrza.
+- **Pegaz Świtu**: wygląda jak koń z dużymi skrzydłami; oswajasz jak konia, zakładasz siodło i latasz (skok = machnięcie skrzydłami,
+  także w powietrzu; w locie szybuje). Bez obrażeń od upadku.
+- **Alabastrowy Strażnik**: kamienny anioł-wojownik z mieczem, tarczą i skrzydłami.
+- Rzemiosło: Midgardzki Stół Rzemieślniczy, Midgardzki Piec, **Ciężki Piec** (Przepalony Głębinowy Łupek + Czaszka Trolla + 2 sztabki
+  Runostali; tylko w nim przetopisz Runostal), Czaszka Trolla z Kamiennego Trolla, deski z wszystkich drzew krain i dużo nowych przepisów.
