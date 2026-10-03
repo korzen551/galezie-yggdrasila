@@ -44,3 +44,7 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   posągi, sadzawki złotej wody) i Katedra Skrzydeł (nawa 110 bloków, wieża ze złotym hełmem, witraże, anioł nad portalem). Każda na własnej
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
+
+## Zmiany w 0.4.3
+- Oczodrzew przyspiesza wzrost roślin w promieniu 20 bloków (~50%).
+- Pegaz: patrząc mocno w dół w locie, nurkuje.
