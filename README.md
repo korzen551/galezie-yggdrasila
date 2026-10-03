@@ -14,6 +14,18 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
 
 ## Na start
 - Trzy zakładki w trybie kreatywnym: „Yggdrasil — przedmioty i bramy”, „bloki”, „jaja spawnu”.
-- Komenda (świat z kodami): `/kraina midgard`, `/kraina dawn_isles`, `/kraina hel`, `/kraina muspel`, `/kraina overworld`.
+- Komenda (świat z kodami): `/kraina midgard`, `/kraina dawn_isles`, `/kraina hel`, `/kraina muspel`, `/kraina jotunheim`, `/kraina overworld`.
+- Pokazy mobów: `/ygg pokaz fjallgleypir|oczodrzew|baron <akcja>` (np. `/ygg pokaz oczodrzew sen`, `/ygg pokaz baron wspinaczka`).
 - Brama Drzewa: rama z **Kamienia Trzech Światów** (wnętrze od 2×3, można powiększać jak portal do Netheru;
   górna i dolna belka wystają o 1 blok po bokach), zapalana **Krzesiwem Światów**.
+
+## Zmiany w 0.4.0
+- **Muspelheim**: ogromne, samotne wulkany (420–720) z jeziorami Lawy Wulkanicznej, rzeki zwykłej Lawy Muspelu, 8 biomów,
+  **Baron** (bardzo szybki, skacze wysoko, bije jak Hulk) i rzadszy **Baron z Mieczami** (wspina się po ścianach i nawisach, zostawia dziury).
+- **Hel**: 7 biomów (Kościane Pola, Mgliste Bagna, Las Dusz, Iglice Lodu, Nastrond, Pola Grobów, Szronowe Równiny), mosty w każdym.
+- **Wyspy Świtu**: wyspy bez końca w górę i w dół (spadasz przez Morze Chmur i lądujesz znowu nad wyspami), 7 krain wysp
+  (od drobnych archipelagów po kontynenty nieba), **Złota Woda Świtu** (leczy), wodospady ~400 bloków, 8 nowych spokojnych mobów.
+- **Jotunheim** (nowa kraina): góry do 1200, otchłanie do -1000, rzadkie Doliny Olbrzymów na wysokości 400–600, brama z Granitu Jotunów.
+- **Midgard**: nowe budowle — długi dom jarla, gród z palisadą, kościół klepkowy, kurhan królewski z kamienną łodzią,
+  wieża strażnicza, kuźnia run + 5 nowych budowli w jaskiniach.
+- Nowy teren pojawia się tylko w nowych (nieodwiedzonych) chunkach.
