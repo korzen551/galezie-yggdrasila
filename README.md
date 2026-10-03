@@ -45,6 +45,27 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.4.9
+- **Gigantyczne struktury Helu** (6 rodzajów, rzadkie, ogromne):
+  - **Plac Ostatniej Drogi**: okrągły plac z ośmioma alejami posągów. Przez bramy wchodzą **widma potworów ze wszystkich krain**
+    i idą prosto do **Wielkiej Czarnej Dziury** (100 bloków w dół), gdzie giną w **Płynnym Voidzie**. Wokół dziury stoi ośmiu
+    **Strażników Śmierci**: olbrzymów na 7 bloków z mieczem, toporem, młotem albo siekierą. Są neutralni, ale gdy kręcisz się
+    po placu za długo albo któregoś uderzysz, ruszają do ataku: wolni, z długim zamachem i bardzo mocnym ciosem. Da się odskoczyć.
+  - **Studnia Dusz**: zrujnowana okrągła wieża nad otchłanią. W środku spiralna galeria z celami za rdzawymi kratami,
+    klatki wiszące na łańcuchach, a na dnie Płynny Void.
+  - **Wiszące Klatkowisko**: wielka przepaść z czterema piętrami cel wykutych w skale, kamienne łuki z klatkami, pomost na łańcuchach
+    i szkielet olbrzyma na dnie.
+  - **Twierdza Nastrond**: mury z fosą i wieżami, Sala Królewska z zawalonym dachem i żebrami olbrzymów, donżon (skarbiec, zbrojownia,
+    komnata pana, sala rytuałów), biblioteka z galerią, sala biesiadna z kuchnią, kaplica z kryptą, koszary, lochy, pracownia alchemika.
+  - **Éljúðnir, Pałac Hel**: trzy tarasy z wielkimi schodami, Galeria Umarłych i Kostnica, **Próg Upadku** (zapadnia nad Voidem!),
+    Sala Hungr ze sługami Ganglati i Ganglöt, łoże Kör, Straż Tronu (dwaj Strażnicy Śmierci) i sala tronowa z kolosalnym posągiem Hel.
+  - **Rozdarta Twierdza**: zamek przecięty przepaścią z Voidem. Połowa się zapadła i przechyliła, Wielka Sala jest rozdarta na pół,
+    jest krzywa wieża nad otchłanią i dwa mosty (jeden urwany).
+- W salach siedzą **potężne potwory z imionami** (np. Król Nastrondu, Pożeracz Ksiąg, Cień Hel), a w skrzyniach są nowe łupy Helu.
+- **Uwięzione Dusze** w celach i klatkach: przebij się do duszy i jej dotknij, a zostanie uwolniona i da doświadczenie.
+- Nowe bloki Helu: Latarnia Helu (stoi albo wisi), Spleśniały Dywan, Spleśniały Regał, cegły, łupek, kraty, łańcuchy, kosze dusz,
+  sztandary, pajęczyny i Płynny Void (z wiadrem).
+
 ## Zmiany w 0.4.8
 - **Wioska Wojowników całkiem od nowa i 3× większa** (mur 217×217 bloków): 15 wielkich wież (kamienny trzon, nadwieszone drewniane
   piętro, galeria widokowa, stromy dach z gontów ze smoczą głową) i nowa brama z dwiema basztami. **Krata w bramie sama się podnosi
