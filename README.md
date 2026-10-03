@@ -45,6 +45,12 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.4.4
+- Fjallgleypir: nie lewituje już na zboczach. Wysokość ciała liczona głównie z gruntu pod tułowiem
+  (stopy na zboczu tylko lekko je unoszą). Zmierzone w marszu: 36–39 bloków nad gruntem przy wzroście 36
+  (wcześniej było nawet 55). Nie zapada się w ziemię.
+- Fjallgleypir: kroki animowane w czasie gry, a nie w klatkach — tak samo płynne przy każdym FPS.
+
 ## Zmiany w 0.4.3
 - Oczodrzew przyspiesza wzrost roślin w promieniu 20 bloków (~50%).
 - Pegaz: patrząc mocno w dół w locie, nurkuje.
