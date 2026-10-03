@@ -45,6 +45,12 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.4.6
+- **Etapy Wysp Świtu**: wlot w górną mgłę (powyżej y 912) przenosi na **inne wyspy** — piętro wyżej, z innym terenem
+  i innymi krainami, przy tych samych X/Z. Spadek w dolną mgłę (poniżej -912) — piętro niżej. Powrót tą samą mgłą prowadzi
+  dokładnie tam, skąd się przyleciało. Poziomo nie da się dolecieć do innego piętra.
+- Pięter jest 41 (20 w górę, 20 w dół od Wysp z bramy); tworzą pierścień — nad najwyższym jest najniższe.
+
 ## Zmiany w 0.4.5
 - **Wioski Wojowników w Midgardzie** (część 1: budowle). Na płaskich nizinach (łąki, wrzosowiska) co ~600 bloków.
   Mur 97×97 o wysokości 7 bloków z blankami, chodnikiem i schodami, 4 wieże narożne, brama z wieżyczkami i nową
