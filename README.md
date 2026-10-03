@@ -45,6 +45,10 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.5.1
+- Komenda **/gear** (wymaga kodów): pełna zbroja, miecz, kilof, topór i łopata z Runostali z najlepszymi zaklęciami na maksymalnym
+  poziomie, elytra (niezniszczalność, naprawa), stak fajerwerków (lot 3) i stak zaklętych złotych jabłek.
+
 ## Zmiany w 0.5.0
 - **Nowe szkielety Helu**: wyglądają jak prawdziwe szkielety, ale mają rogaty hełm i okrągłą tarczę z runą. Szkielet-Rycerz walczy
   Rdzawym Mieczem, rzadszy Szkielet-Łucznik strzela z łuku. Obaj naprawdę blokują tarczą ciosy i strzały z przodu,
