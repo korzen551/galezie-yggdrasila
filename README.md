@@ -45,6 +45,16 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.5.0
+- **Nowe szkielety Helu**: wyglądają jak prawdziwe szkielety, ale mają rogaty hełm i okrągłą tarczę z runą. Szkielet-Rycerz walczy
+  Rdzawym Mieczem, rzadszy Szkielet-Łucznik strzela z łuku. Obaj naprawdę blokują tarczą ciosy i strzały z przodu,
+  a cios toporem wytrąca im tarczę na kilka sekund.
+- **Jaskinie Helu**: pod dolinami (pod mostami) ciągną się pieczary i tunele do ok. 480 bloków w głąb. Są tylko w nowo odkrytych
+  częściach Helu.
+- **Nowy metal Helu**: w jaskiniach jest ruda **Gjallsafiru** (blado-błękitny szafir). 2 Gjallsafiry i 2 kości Helu dają
+  **Surowy Helgrind**, a Ciężki Piec przetapia go na **Sztabkę Helgrindu**. Z niej robi się narzędzia (trzonki z kości Helu)
+  i zbroję, mocniejsze od Runostali.
+
 ## Zmiany w 0.4.9
 - **Gigantyczne struktury Helu** (6 rodzajów, rzadkie, ogromne):
   - **Plac Ostatniej Drogi**: okrągły plac z ośmioma alejami posągów. Przez bramy wchodzą **widma potworów ze wszystkich krain**
