@@ -38,3 +38,9 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
 - **Alabastrowy Strażnik**: kamienny anioł-wojownik z mieczem, tarczą i skrzydłami.
 - Rzemiosło: Midgardzki Stół Rzemieślniczy, Midgardzki Piec, **Ciężki Piec** (Przepalony Głębinowy Łupek + Czaszka Trolla + 2 sztabki
   Runostali; tylko w nim przetopisz Runostal), Czaszka Trolla z Kamiennego Trolla, deski z wszystkich drzew krain i dużo nowych przepisów.
+
+## Zmiany w 0.4.2
+- **Świątynie Wysp Świtu** w świecie: Świątynia Świtu (3 tarasy z kolumnadami, sanktuarium ze złotą kopułą, 4 wieże, skrzydlate
+  posągi, sadzawki złotej wody) i Katedra Skrzydeł (nawa 110 bloków, wieża ze złotym hełmem, witraże, anioł nad portalem). Każda na własnej
+  latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
+- Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
