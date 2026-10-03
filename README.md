@@ -45,6 +45,15 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.4.5
+- **Wioski Wojowników w Midgardzie** (część 1: budowle). Na płaskich nizinach (łąki, wrzosowiska) co ~600 bloków.
+  Mur 97×97 o wysokości 7 bloków z blankami, chodnikiem i schodami, 4 wieże narożne, brama z wieżyczkami i nową
+  **Runiczną Kratą**. W środku rynek ze studnią, straganami i pomnikami, zamek z salą tronową, kościół klepkowy, dom wojowników,
+  kuźnia, domy osadników, farma, rybak z jeziorkiem, myśliwy, biblioteka i strzelnica. W beczkach łupy.
+  Szukanie: `/locate structure yggdrasil:warrior_village` (w Midgardzie).
+- Runiczna Krata: 6 sztuk z 7 sztabek Runostali (I_I / III / I_I).
+- Mieszkańcy, handel, wynajem wojowników i mechanizm kraty — w kolejnych wersjach.
+
 ## Zmiany w 0.4.4
 - Fjallgleypir: nie lewituje już na zboczach. Wysokość ciała liczona głównie z gruntu pod tułowiem
   (stopy na zboczu tylko lekko je unoszą). Zmierzone w marszu: 36–39 bloków nad gruntem przy wzroście 36
