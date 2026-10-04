@@ -45,6 +45,30 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.7.0
+- **Mieszkańcy Wiosek Wojowników**: wysocy (ok. 2,5 bloku), z długimi rękami i ciałem jak u wieśniaka, ale z brodami, warkoczami
+  i strojami zawodów. Każdy ma imię, a kolor włosów, fryzurę i brodę losuje.
+  W jednej wiosce mieszka ok. 40 osadników i 30 wojowników: kupcy za ladami na rynku, kowal w kuźni, łucznik na strzelnicy,
+  rybak nad jeziorkiem, myśliwy, rolnicy na polach, bibliotekarz w bibliotece twierdzy, wojownicy w koszarach, długim domu,
+  na arenie, w bramie i na każdej wieży.
+- **Handel**: PPM na osadniku otwiera wymianę. Handlują materiałami za materiały, a główną monetą jest **Bursztyn**.
+  Kowal przetapia rudy i kuje broń, łucznik robi strzały, myśliwy skupuje skóry i poroża itd. Towar odnawia się codziennie.
+- **Targowanie się** z kupcami na rynku: skradanie + PPM daje 10% taniej, do 50%. Kupiec coraz bardziej się złości, aż
+  czerwienieje na twarzy. Gdy przesadzisz, uderzy cię i do końca dnia nic ci nie sprzeda.
+- **Wojownicy rang I–V** (Drengr, Tarczownik, Weteran, Huskarl, Ulfhedinn): im wyższa ranga, tym lepsza zbroja i broń, więcej
+  życia i drożej. W oknie handlu kupuje się u nich usługi, płaci się bursztynem, srebrem, Runostalą, diamentami i Zorzytem:
+  - **Najem**: ranga I towarzyszy ci 20 minut, ranga V 2 godziny. Wojownik idzie za tobą (także do innych krain), broni cię
+    i atakuje twoich wrogów, ale może zginąć. Sekundę po końcu czasu żegna się, odchodzi i wraca do swojego budynku w wiosce.
+  - **Wyprawa**: wybierasz łup (wyższa ranga = rzadsze rzeczy, aż po Smoczą Łuskę i Helgrind). Wojownik wyrusza i wraca po
+    czasie. Gdy jesteś daleko, przylatuje do ciebie **sowa**, siada ci na ramieniu i daje **list**: kto wrócił, z czym i gdzie
+    czeka. Na miejscu wojownik sam podchodzi i rzuca ci łup, a potem odpoczywa 3 dni.
+  - **Umowa** (dostajesz ją przy zakupie): PPM pokazuje, ile czasu zostało albo gdzie czeka wojownik.
+- **Burmistrz-jarl** siedzi w twierdzy na tronie przy stole biesiadnym, najsilniejszy w wiosce. Jeśli go zaatakujesz, cała
+  wioska chce cię zabić przez dzień (a gdy go zabijesz, przez 3 dni). Brama z kratą nie otworzy się wtedy na pukanie.
+- **Własne głosy** mieszkańców (żadnych dźwięków wieśniaków): krótkie słowa w nieznanym, nordyckim języku i pomruki, osobno
+  męskie i kobiece. Do tego okrzyki bojowe wojowników, jęki, zgoda i odmowa przy handlu oraz huk sowy.
+- Jaja spawnu osadnika i wojownika (w zakładce jaj).
+
 ## Zmiany w 0.6.0
 - **Wielka Wieża Obserwacyjna Helu** (ok. 500 bloków): stoi na dnie rozpadlin, na skrzyżowaniu dwóch linii mostów, więc mosty
   dochodzą do niej z czterech stron prosto do bram sali mostów. W środku są jedne kręcone schody od dna aż na szczyt wokół otwartego
