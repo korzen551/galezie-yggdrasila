@@ -45,6 +45,9 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.5.2
+- Lawa Muspelu, Lawa Wulkaniczna i Płynny Ogień działają jak prawdziwa lawa: nie przelatuje się przez nie, tylko grzęźnie w nich jak w lawie.
+
 ## Zmiany w 0.5.1
 - Komenda **/gear** (wymaga kodów): pełna zbroja, miecz, kilof, topór i łopata z Runostali z najlepszymi zaklęciami na maksymalnym
   poziomie, elytra (niezniszczalność, naprawa), stak fajerwerków (lot 3) i stak zaklętych złotych jabłek.
