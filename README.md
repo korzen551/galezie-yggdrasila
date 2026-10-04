@@ -45,6 +45,23 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.8.0
+- **Fjallgleypir od nowa, z mnóstwem animacji**:
+  - **Różowy ogień Seidu** wychodzi z samej głębi gardła, jakby z żołądka. Najpierw bestia nabiera powietrza: odchyla łeb,
+    zasysa iskry, z nozdrzy leci dym, gardło świeci. Potem zieje strumieniem albo strzela serią ognistych kul.
+  - Ogień **wypala kratery** wg twardości bloków: ziemię i drewno mocno, kamień słabiej, najtwardsze skały ledwo.
+  - **Na oślep albo celnie**: dopóki cię nie wypatrzy, strzela z pamięci, gdzie byłeś (rozrzut do 15 bloków). Wypatrzy cię, gdy
+    atakujesz i stoisz w miejscu; wtedy trafia bardzo celnie. Chowanie się, skoki i przerwa w atakach sprawiają, że cię gubi.
+  - **Nowy, ciężki chód**: barki, biodra, szyja i ogon pracują, każdy krok wzbija pył. Bestia jest szybsza, a zęby siedzą w szczękach.
+  - **Skok**: dłuższy lot, przednie łapy wyciągnięte, tylne podkulone, bez machania.
+- **Słabe punkty** (jak głowa smoka Kresu):
+  - **Oczy** biorą ×3 obrażeń, **język** przy otwartej paszczy ×3,5, **spody łap** ×3.
+  - 2–3 trafienia w łapy w czasie skoku: bestia **przewraca się**, skok przepada, przez chwilę leży i dostaje więcej obrażeń.
+  - Kilka trafień w język przerywa zionięcie i pożeranie, a bestia wypluwa ofiarę.
+  - Gdy cię wypatrzy, 4–5 trafień w oko sprawia, że **zamyka oczy** na kilka sekund, gubi cię i musi szukać od nowa.
+- **Pożeranie**: czasem opuszcza łeb nisko jak pies nad miską i próbuje cię zjeść. Czasem łapą **podrzuca cię na ~400 bloków**,
+  staje na tylnych łapach i łapie paszczą. Kto zostanie w paszczy dłużej niż sekundę, ginie pożarty.
+
 ## Zmiany w 0.7.0
 - **Mieszkańcy Wiosek Wojowników**: wysocy (ok. 2,5 bloku), z długimi rękami i ciałem jak u wieśniaka, ale z brodami, warkoczami
   i strojami zawodów. Każdy ma imię, a kolor włosów, fryzurę i brodę losuje.
