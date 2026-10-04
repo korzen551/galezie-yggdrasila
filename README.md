@@ -45,6 +45,31 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.9.0
+- **Jednorożec** (`/summon yggdrasil:unicorn`, nie pojawia się sam w świecie):
+  - Większy od konia: srebrzysta sierść w jabłka, długa złota grzywa z koralowym warkoczem, jedwabiste szczotki nad kopytami,
+    spiralny perłowo-złoty róg.
+  - Oswajasz go jak konia (jeździsz na oklep, aż przestanie zrzucać), potem zakładasz siodło. Z siodłem ma też nordycką derkę i uzdę.
+  - **Lata magią**, bez skrzydeł. Skok (przytrzymaj spację) wzbija go w powietrze, a każdy kolejny skok w locie dodaje wzlotu.
+    Z klawiszem „do przodu” leci tam, gdzie patrzysz: w górę, żeby się wznieść, w dół, żeby zanurkować. Bez ruchu wisi w powietrzu
+    i powoli opada. Spod kopyt sypią się iskry, a upadek nic mu nie robi.
+  - **Róg zależy od jedzenia**:
+    - Dobre jedzenie (złota marchew, złote jabłko, marchew, jabłko, siano, pszenica, cukier, jagody, ciasto, chleb…): róg świeci
+      na różowo, a jednorożec co ~2 sekundy strzela w ciebie promieniem z dobrym efektem (regeneracja, pochłanianie, odporność,
+      szybkość, siła, wyższe skoki, odporność na ogień, widzenie w ciemności).
+    - Złe jedzenie (zgniłe mięso, oko pająka, trujący ziemniak, rozdymka, surowe mięso): róg płonie na lazurowo-zielono,
+      jednorożec się wścieka i strzela złymi efektami (trucizna, słabość, spowolnienie, mdłości, zmęczenie, ślepota, głód).
+  - Każde karmienie przedłuża nastrój, maksymalnie do 2 minut.
+- **Tyranozaur** (`/summon yggdrasil:tyrannosaurus`, nie pojawia się sam w świecie):
+  - Ok. 10 bloków wysokości i 14 długości: brązowa łuska w ciemne pręgi, kły w obu szczękach, małe łapki, trzy palce z pazurami.
+  - Poluje na graczy i zwierzęta. Na widok ofiary ryczy: spowalnia graczy i odpycha małe stwory.
+  - Ataki: ugryzienie (schyla łeb i kłapie, ogromne obrażenia), zamach ogonem na stojących z boku albo za nim, tupnięcie na tych,
+    co weszli mu pod brzuch.
+  - Chodzi ciężkim krokiem: ziemia pyli się spod stóp, a liście łamią się, gdy przez nie przechodzi.
+  - Da się go trafić na całej długości: łeb (×1,5 obrażeń), szyja, pierś, ogon.
+  - Zostawia dużo dziczyzny i kości.
+- Naprawione: siodło na **Pegazie Świtu** pozwala nim sterować (wcześniej jeździec nie miał kontroli).
+
 ## Zmiany w 0.8.0
 - **Fjallgleypir od nowa, z mnóstwem animacji**:
   - **Różowy ogień Seidu** wychodzi z samej głębi gardła, jakby z żołądka. Najpierw bestia nabiera powietrza: odchyla łeb,
