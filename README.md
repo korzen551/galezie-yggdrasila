@@ -45,6 +45,9 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.9.2
+- Naprawione: zamach ogonem tyranozaura w prawo wyrzucał gracza ze świata (błąd „Sniffer” w logu).
+
 ## Zmiany w 0.9.1
 - Proste komendy do bestii:
   - **`/jednorozec`**: oswojony jednorożec z siodłem stanie 6 bloków przed tobą. Od razu możesz na niego wsiąść i latać.
