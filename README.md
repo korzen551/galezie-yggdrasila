@@ -45,6 +45,23 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.6.0
+- **Wielka Wieża Obserwacyjna Helu** (ok. 500 bloków): stoi na dnie rozpadlin, na skrzyżowaniu dwóch linii mostów, więc mosty
+  dochodzą do niej z czterech stron prosto do bram sali mostów. W środku są jedne kręcone schody od dna aż na szczyt wokół otwartego
+  szybu z łańcuchami. Na samej górze, pod bardzo wąską, ostrą piramidą, jest izba latarni.
+- **Latarnia i Wój Światła**: w izbie stoi zgaszony **Kamień Latarniany**, a pod nim wisi ramka z **Kościaną Dźwignią**. Postaw
+  dźwignię na kamieniu i ją przełącz, a obudzi się mini-boss **Wój Światła**: oślepiająco jasna istota, która unosi się nad posadzką.
+  Z bliska tnie dwoma świetlistymi mieczami, z daleka strzela promieniem światła, który mocno odrzuca, a gdy stoisz przy nim
+  za długo, wybucha światłem dookoła.
+- Z Woja wypada **Ogień Życia**. Włóż go w Kamień Latarniany, a latarnia zapłonie: jasny punkt widać z każdej odległości,
+  na jaką gra rysuje świat, także w nocy, a po okolicy krążą wiązki jak z latarni morskiej. Zapalony kamień da się wykopać tylko
+  kilofem z moda (długo), a zgaszony nic nie daje.
+- **Kompas Pradawnego Światła** (kompas + kość Helu): kliknij nim zapalony Kamień Latarniany, a będzie stale wskazywał to miejsce.
+  **Kościana Dźwignia**: kość Helu na Grobowym Łupku.
+- **Mosty**: podpory co 12 bloków aż do dna; część jest rozwalona (kikuty, urwane kawałki pod pomostem, gruz), a czasem podpory brak.
+- **Zamki przy moście**: gdy zamek powstaje blisko mostu, dosuwa się do niego (do ok. 50 bloków). Dostaje wieżę schodową
+  z wejściem na wysokości mostu i kamienną groblę prosto na most.
+
 ## Zmiany w 0.5.2
 - Lawa Muspelu, Lawa Wulkaniczna i Płynny Ogień działają jak prawdziwa lawa: nie przelatuje się przez nie, tylko grzęźnie w nich jak w lawie.
 
