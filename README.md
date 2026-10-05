@@ -45,9 +45,15 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.11.1
+- **Naprawiony crash (brak pamięci)** przy dłuższej grze z dużym zasięgiem: napełnianie głębokich jezior i lejów w Midgardzie
+  planowało osobny „tick” dla każdego bloku wody (do 160 tys. na chunk). Teraz tylko tam, gdzie woda może spłynąć.
+  Stare zapisane chunki są czyszczone przy wczytywaniu — świat jest bezpieczny.
+- Symulacja ustawiona na 32 (więcej gra i tak nie przyjmuje).
+
 ## Zmiany w 0.11.0
-- **Duża optymalizacja**. Render 64 chunki + symulacja 40 w Midgardzie: stojąc **~200 FPS** (było 13), w locie ~600 FPS,
-  tick serwera ~4 ms (było 64 ms). Hel ~540 FPS w locie.
+- **Duża optymalizacja**. Render 64 chunki + symulacja 32 w Midgardzie: stojąc **~225 FPS** (było 13), w locie ~580 FPS,
+  tick serwera ~11 ms (było 64 ms). Hel ~740 FPS w locie.
   - Nowy teren generuje się 2–3 razy szybciej, a gra wczytuje naraz tyle chunków, ile ma wątków procesora (zamiast 4).
   - Światło nie kopiuje już całej mapy wszystkich sekcji po każdej zmianie. To ono najbardziej zjadało pamięć i powodowało zacięcia.
   - Serwer co tick zagląda tylko do sekcji, w których coś rośnie lub się zmienia, a nie do wszystkich ~130 w każdym chunku.
