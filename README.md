@@ -45,6 +45,17 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.10.0
+- **Fjallgleypir dokończony**:
+  - **Trafia się w całe ciało**: grzbiet, boki, brzuch, pierś, szyję, nogi, łapy, ogon, skrzydła i łeb. Strzały już nie przelatują.
+  - **Ciało jest twarde jak skała**: można po nim chodzić, a gdy się porusza, niesie cię na grzbiecie. Nie da się w niego wejść.
+    Wlecenie w niego elytrą kończy się uderzeniem, utratą życia i spadaniem.
+  - **Zrzucanie z grzbietu**: jeśli stoisz na nim 10–20 sekund, zaczyna się wiercić, staje dęba i przewala z boku na bok.
+    Podrzuca cię coraz wyżej, a na końcu wyrzuca daleko w bok.
+  - **Trafienie**: zamiast czerwienienia całej bestii na ułamek sekundy zapala się na czerwono tylko trafiony kawałek skóry.
+  - **Skok**: po lądowaniu zostają w ziemi cztery wielkie odciski łap z podeszwą i śladami palców.
+- Naprawione w całym modzie: odrzut i podrzut gracza (od T-rexa, Barona, fali uderzeniowej itd.) wcześniej nie działał na gracza.
+
 ## Zmiany w 0.9.2
 - Naprawione: zamach ogonem tyranozaura w prawo wyrzucał gracza ze świata (błąd „Sniffer” w logu).
 
