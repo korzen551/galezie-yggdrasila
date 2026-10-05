@@ -45,6 +45,9 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.11.2
+- `/gear` daje też łuk (Moc V, Odrzut II, Płomień, Niezniszczalność III, Naprawa), stak strzał i drugi stak fajerwerków (lot 3).
+
 ## Zmiany w 0.11.1
 - **Naprawiony crash (brak pamięci)** przy dłuższej grze z dużym zasięgiem: napełnianie głębokich jezior i lejów w Midgardzie
   planowało osobny „tick” dla każdego bloku wody (do 160 tys. na chunk). Teraz tylko tam, gdzie woda może spłynąć.
