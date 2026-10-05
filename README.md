@@ -45,6 +45,14 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.11.4
+- **Fjallgleypir ma 3400 życia** (wcześniej gra po cichu obcinała mu życie do 1024).
+- Jego ogień nie zostawia już tysięcy przedmiotów z wypalonych bloków. To one wieszały grę w czasie walki: bloki wracały,
+  moby nie dostawały obrażeń. Zawartość skrzyń nadal wypada.
+- Przy oczach i łbie Fjallgleypira nie ma już niewidzialnych ścian (w oczy nadal da się trafić).
+- **Hel: zamki i więzienia ok. 3 razy rzadziej.** Gra najpierw losuje „tu będzie zamek”, a dopiero potem jaki.
+- Wioski Wojowników nie zalewają już logu tysiącami ostrzeżeń „unsafe terrain read”.
+
 ## Zmiany w 0.11.3
 - Łuk z `/gear` ma Nieskończoność zamiast Naprawy.
 
