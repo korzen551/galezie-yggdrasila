@@ -45,6 +45,17 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.11.0
+- **Duża optymalizacja**. Render 64 chunki + symulacja 40 w Midgardzie: stojąc **~200 FPS** (było 13), w locie ~600 FPS,
+  tick serwera ~4 ms (było 64 ms). Hel ~540 FPS w locie.
+  - Nowy teren generuje się 2–3 razy szybciej, a gra wczytuje naraz tyle chunków, ile ma wątków procesora (zamiast 4).
+  - Światło nie kopiuje już całej mapy wszystkich sekcji po każdej zmianie. To ono najbardziej zjadało pamięć i powodowało zacięcia.
+  - Serwer co tick zagląda tylko do sekcji, w których coś rośnie lub się zmienia, a nie do wszystkich ~130 w każdym chunku.
+  - Klient nie szuka co klatkę w ogromnej tablicy, gdzie leży każda sekcja w pamięci karty graficznej.
+  - Mniej zbędnych danych w pamięci (strażniki wątków, puste ticki jezior). Woda w świeżo wygenerowanych jaskiniach nie zostawia
+    już tysięcy leżących roślin.
+- Zalecane ustawienia Javy w launcherze: `-Xmx16G` i `-XX:+UseCompactObjectHeaders` (przy 32 GB RAM).
+
 ## Zmiany w 0.10.0
 - **Fjallgleypir dokończony**:
   - **Trafia się w całe ciało**: grzbiet, boki, brzuch, pierś, szyję, nogi, łapy, ogon, skrzydła i łeb. Strzały już nie przelatują.
