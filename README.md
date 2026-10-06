@@ -45,6 +45,12 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.11.5
+- **Naprawione „odłączanie” w walce z Fjallgleypirem** (bloki wracały, moby nie dostawały obrażeń, gra stawała).
+  Przyczyna: przy każdej Twojej śmierci zostawało ~100 niewidzialnych, twardych kawałków bestii. Do tego serwer co chwilę
+  teleportował gracza w paszczy i cofał go, gdy stał na grzbiecie. W teście walki najdłuższe zacięcie spadło z 0,31 s do 0,16 s.
+- Skrzydła Fjallgleypira nie krzyżują się już nad grzbietem, a przewracanie wygląda dobrze z każdej strony.
+
 ## Zmiany w 0.11.4
 - **Fjallgleypir ma 3400 życia** (wcześniej gra po cichu obcinała mu życie do 1024).
 - Jego ogień nie zostawia już tysięcy przedmiotów z wypalonych bloków. To one wieszały grę w czasie walki: bloki wracały,
