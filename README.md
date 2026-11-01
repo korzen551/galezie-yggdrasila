@@ -45,6 +45,15 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.12.0
+- **Jotunheim: nowy biom Kaniony Olbrzymów**: gigantyczne ściany w kolorowe pasy pięciu nowych skał (Ochra Olbrzymów, Rdzawa
+  Skała Kanionu, Kościsty Wapień, Szarofioletowy Łupek, Zimny Granit Kanionu), iglice, płaskowyże i skalne łuki.
+- **Wielkie jeziora Lodowcowej Wody** na dnie kanionów: ok. 200×560 bloków, głębokie na kilkadziesiąt, z jasnym dnem
+  i Lodowcowym Piaskiem. Nowa ciecz (pływanie, wiadro).
+- **Podwodne rośliny**: świecący Latarnicowy Wodorost, Podwodna Lilia Lodowa, Lodowcowa Trawa Denna.
+- **Nowe stworzenia wodne**: Świetlik Płetwiasty, Szklisty Węgorz, Kryształowa Płaszczka (pokojowe, pływają w jeziorach kanionów).
+- Biom pojawia się w nowo generowanych częściach Jotunheimu.
+
 ## Zmiany w 0.11.6
 - **Wnętrza Wiosek Wojowników poprawione**: łańcuchy nad paleniskami i żyrandolami dochodzą do dachu, wieszaki z rybami
   i ziołami, skóry, stojaki i kaganki wiszą na drewnianych wspornikach na ścianie (nic już nie wisi w powietrzu).
