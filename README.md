@@ -45,6 +45,16 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.15.0
+- **Farmy Midgardu**: motyką zamienisz ziemię i trawę Midgardu w **Rolę Midgardu** (nawadnia ją Woda Midgardu).
+- **5 nowych upraw** po 8 etapów wzrostu: Jęczmień Paleniskowy, Szronowa Rzepa, Niebiański Len, Żarolist i Runiczne Jagody —
+  nasiona znajdziesz w dzikich odmianach na łąkach, wrzosowiskach i w borach. Nowe przepisy: chleb jęczmienny, pieczona rzepa,
+  napar z regeneracją, strzecha, nić.
+- **Pola w Wioskach Wojowników**: grządki z kanałami wodnymi, kładkami i strachami na wróble; dwaj **rolnicy** zbierają plony
+  i sieją na nowo, można u nich handlować.
+- **Oczodrzew**: w promieniu 20 bloków WSZYSTKIE rośliny rosną o 50% szybciej — na wolności i w klatce; przy części farm stoi
+  klatka z żywym Oczodrzewem.
+
 ## Zmiany w 0.14.0
 - **Jotunheim: nowy, żywy Żelazny Las** — pomarańczowo-złoty las jak z God of War: włókniste pnie Bursztynowca rozkładające się
   w wachlarze, korony bursztynowe, złote i żarzące, zwisający Krwawnik i Bursztynowe Frędzle, tarasy Słonecznego Piaskowca,
