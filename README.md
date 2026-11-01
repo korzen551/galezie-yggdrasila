@@ -45,6 +45,15 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.11.6
+- **Wnętrza Wiosek Wojowników poprawione**: łańcuchy nad paleniskami i żyrandolami dochodzą do dachu, wieszaki z rybami
+  i ziołami, skóry, stojaki i kaganki wiszą na drewnianych wspornikach na ścianie (nic już nie wisi w powietrzu).
+- **Prawdziwy ogień w koszu paleniska**: kuty kosz z animowanymi płomieniami i żarzącymi się węglami zamiast płaskich płyt.
+- **Nowe nordyckie łóżko z futrem** (2 bloki): rama z desek, rzeźbione wezgłowie, futro, poduszka, tkany pas. Można w nim spać
+  i ustawić punkt odrodzenia.
+- Oczodrzew przyspiesza wzrost WSZYSTKICH roślin w promieniu 20 bloków, zawsze i wszędzie.
+- (Nowe budynki — stare, już wygenerowane domy zostają jak były.)
+
 ## Zmiany w 0.11.5
 - **Naprawione „odłączanie” w walce z Fjallgleypirem** (bloki wracały, moby nie dostawały obrażeń, gra stawała).
   Przyczyna: przy każdej Twojej śmierci zostawało ~100 niewidzialnych, twardych kawałków bestii. Do tego serwer co chwilę
