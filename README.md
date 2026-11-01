@@ -45,6 +45,10 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.13.1
+- Nowe modele zwierząt Żelaznego Lasu: **Biały Wilk Strażniczy** (wydłużony pysk, małe uszy, długie łapy), **Ryś Szeptorogi**
+  (kocia morda, pędzelki na uszach) i **Runoskrzydłek** — teraz mały motyl z czterema świecącymi skrzydłami, zawsze w locie.
+
 ## Zmiany w 0.13.0
 - **Jotunheim: nowy biom Żelazny Las** na pogórzach: Żelazodrzewy o srebrzystej korze z rdzawymi bruzdami, olbrzymy do ok. 75 bloków
   z rozłożystymi korzeniami, chłodne korony, mgła i polany; poszycie (Żelazna Paproć, Rdzawy Pióropusz, Szronowy Dzwonecznik,
