@@ -45,6 +45,20 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.17.0
+- **Tytani Jotunheimu** — żywe olbrzymy wysokie na **~300 bloków**, rzadko spotykane w Jotunheimie:
+  - **Tytan-wędrowiec** (najczęściej **handlarz**): kliknij jego stopę lub dłoń — klęka, sięga do kieszeni spodni po towar,
+    a po każdej wymianie ryczy na pół krainy. Sprzedaje rzadkie dobra Jotunheimu za bursztyn, skupuje skóry i mięso.
+    Zaatakowany bije pięścią w ziemię, kopie i miażdży stopą.
+  - **Tytan waleczny** z ogromnym mieczem i w hełmie — od razu atakuje. Czasem (ok. 20%), przy bardzo małym życiu, pada na kolana
+    i składa ręce jak do modlitwy: kliknij go i wybierz **„Daruj życie”** (albo dobij). Darowany idzie za tobą;
+    nadaj mu imię **znacznikiem z imieniem**, a będzie słuchał: **Kucnij + PPM** zmienia polecenie (chodź za mną / zostań /
+    **kop skały** tam, gdzie patrzysz — łup trafia do twojego ekwipunku), **PPM pustą ręką** — **jazda na jego barku**
+    (sterujesz klawiszem „naprzód”).
+  - **Tytan-zombie** (blady, z rogami, kłami i kolczastą maczugą) — zawsze wrogi.
+  - Hitboxy na całym ciele (stopy, nogi, ręce, tułów, głowa — w głowę zadajesz podwójne obrażenia).
+  - Komendy: `/tytan`, `/tytan wedrowiec`, `/tytan wojownik`, `/tytan zombie`.
+
 ## Zmiany w 0.16.0
 - **Wyroby ze wszystkich materiałów krain** (817 nowych bloków, 1620 przepisów):
   - **każde drewno krain** (11 gatunków + Bursztynowiec i smołowane deski): schody, płyty, płoty, furtki, drzwi, włazy,
