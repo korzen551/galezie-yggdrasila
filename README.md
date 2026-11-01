@@ -45,6 +45,17 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.16.0
+- **Wyroby ze wszystkich materiałów krain** (817 nowych bloków, 1620 przepisów):
+  - **każde drewno krain** (11 gatunków + Bursztynowiec i smołowane deski): schody, płyty, płoty, furtki, drzwi, włazy,
+    przyciski, płytki naciskowe, tabliczki i wiszące tabliczki, **łodzie i łodzie ze skrzynią**; deski działają w zwykłych
+    przepisach (patyki, stół, skrzynia, narzędzia),
+  - **każdy kamień i cegła** Midgardu, jaskiń, Helu, Muspelheimu, Wysp Świtu i Jotunheimu (w tym skały kanionów i piaskowce):
+    schody, płyty, murki, przecinarka, wersje polerowane, cegły, rzeźbione, bruk przetapiany na skałę,
+  - **kości olbrzymów i korale**: bloki budowlane, składanie korali z wachlarzy, mączka kostna z kości,
+  - **minerały**: bloki i samorodki (Szronowe Srebro, Runostal, Helgrind), bursztyn, runokryształ, Gjallsafir,
+  - **szkło i szyby** z piasków krain, **lniana tkanina**, nici, skóra ze skór zwierząt.
+
 ## Zmiany w 0.15.0
 - **Farmy Midgardu**: motyką zamienisz ziemię i trawę Midgardu w **Rolę Midgardu** (nawadnia ją Woda Midgardu).
 - **5 nowych upraw** po 8 etapów wzrostu: Jęczmień Paleniskowy, Szronowa Rzepa, Niebiański Len, Żarolist i Runiczne Jagody —
