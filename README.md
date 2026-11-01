@@ -45,6 +45,13 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.12.1
+- **Brama wioski otwiera się sama**: Runiczna Krata podnosi się, gdy gracz, osadnik albo wojownik podejdzie na ok. 7 bloków, i opada, gdy nikogo nie ma.
+  W nocy zawsze zamknięta, dla wszystkich (mieszkańcy czekają do rana). Wrogi graczowi wioska nie otworzy mu bramy.
+- **Obrona wioski**: gdy wioska jest wroga, atakują WSZYSCY walczący — wojownicy rang I–V, jarl (wstaje z tronu) i wartownicy
+  (strzelają z łuków z wież albo schodzą) — do 96 bloków za murem. W teście: 26 z 26 obrońców.
+- **Cywile uciekają do domów** podczas alarmu (42 z 42 w teście), otwierają drzwi i furtki, nie zacinają się.
+
 ## Zmiany w 0.12.0
 - **Jotunheim: nowy biom Kaniony Olbrzymów**: gigantyczne ściany w kolorowe pasy pięciu nowych skał (Ochra Olbrzymów, Rdzawa
   Skała Kanionu, Kościsty Wapień, Szarofioletowy Łupek, Zimny Granit Kanionu), iglice, płaskowyże i skalne łuki.
