@@ -45,6 +45,17 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.14.0
+- **Jotunheim: nowy, żywy Żelazny Las** — pomarańczowo-złoty las jak z God of War: włókniste pnie Bursztynowca rozkładające się
+  w wachlarze, korony bursztynowe, złote i żarzące, zwisający Krwawnik i Bursztynowe Frędzle, tarasy Słonecznego Piaskowca,
+  oczka Bursztynowej Wody (nowy płyn), Karmazynowe Pompony, Krwiste Paprocie, Purpurowe Rurki i inne rośliny.
+- **Popielny Bór** — dawny szarobury Żelazny Las ma nową nazwę i 14 rodzajów martwych, bezlistnych drzew.
+- **Jeziora Kanionów Olbrzymów** są teraz głębokie (do ~150 bloków) i pełne życia: rafy koralowe w 5 kolorach, stoły koralowe,
+  lasy świecących wodorostów, łąki ukwiałów, perłowe małże.
+- **Gigantyczne kości olbrzymów** na dnie: czaszki, dłonie, klatki żeber, kręgosłupy, żuchwy i kości udowe — część pięknie porośnięta
+  rafą. W płyciźnie wbity jest ogromny **Miecz Olbrzyma** z runiczną głowicą.
+- Ryby i inne stworzenia mają siedliska przy rafach i kościach; nowe stworzenia: **Zorzowa Meduza** i **Konik Rafowy**.
+
 ## Zmiany w 0.13.1
 - Nowe modele zwierząt Żelaznego Lasu: **Biały Wilk Strażniczy** (wydłużony pysk, małe uszy, długie łapy), **Ryś Szeptorogi**
   (kocia morda, pędzelki na uszach) i **Runoskrzydłek** — teraz mały motyl z czterema świecącymi skrzydłami, zawsze w locie.
