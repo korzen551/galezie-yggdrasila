@@ -45,6 +45,13 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.13.0
+- **Jotunheim: nowy biom Żelazny Las** na pogórzach: Żelazodrzewy o srebrzystej korze z rdzawymi bruzdami, olbrzymy do ok. 75 bloków
+  z rozłożystymi korzeniami, chłodne korony, mgła i polany; poszycie (Żelazna Paproć, Rdzawy Pióropusz, Szronowy Dzwonecznik,
+  Fioletowy Palczak), Szronowy Mech i runiczne Kamienie Szeptów. Nowe drewno: kłoda, deski, liście, sadzonka (rośnie w olbrzyma).
+- **Zwierzęta lasu** (pokojowe): Żelazny Jak i Bizon Szronogrzywy (stada, mięso i skóra), **Biały Wilk Strażniczy** — przyjazny,
+  broni gracza przed napastnikami, Runoskrzydłek (świecący motyl), Ryś Szeptorogi i Zając Mchogrzbiety.
+
 ## Zmiany w 0.12.1
 - **Brama wioski otwiera się sama**: Runiczna Krata podnosi się, gdy gracz, osadnik albo wojownik podejdzie na ok. 7 bloków, i opada, gdy nikogo nie ma.
   W nocy zawsze zamknięta, dla wszystkich (mieszkańcy czekają do rana). Wrogi graczowi wioska nie otworzy mu bramy.
