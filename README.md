@@ -45,6 +45,14 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.18.0
+- **Rzadsze budowle** — koniec z budowlą co kilka kroków:
+  - **Midgard**: jedno wspólne losowanie budowli (strażnica, znicz, krąg menhirów, kurhan, kuźnia, długi dom, gród, świątynia) —
+    ok. **1 budowla na 74 chunki** zamiast 1 na 30.
+  - **Bramy krain** we wszystkich krainach mają jedno wspólne losowanie — jest ich o ok. **92% mniej**.
+  - Budowle jaskiń Midgardu i świątynie Wysp Świtu też rzadsze; zamki i więzienia Helu bez zmian (już rzadkie).
+- Działa tylko w nowo odkrytych terenach.
+
 ## Zmiany w 0.17.0
 - **Tytani Jotunheimu** — żywe olbrzymy wysokie na **~300 bloków**, rzadko spotykane w Jotunheimie:
   - **Tytan-wędrowiec** (najczęściej **handlarz**): kliknij jego stopę lub dłoń — klęka, sięga do kieszeni spodni po towar,
