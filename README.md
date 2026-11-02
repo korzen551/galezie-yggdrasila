@@ -45,6 +45,16 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.19.0
+- **Ciosy tytanów trafiają w ziemię**: pięść, miecz i maczuga schodzą z zamachu aż do gruntu tam, gdzie stoi gracz —
+  z wybuchem, pyłem, wstrząsem i kraterem w terenie.
+- **Nowy tytan-zombie** (jak olbrzymi z DOOM): sino-niebieska skóra z żółtawymi żyłami, przygarbiony, głęboko rozdarta pierś
+  z żebrami w kilku warstwach i wnętrznościami, czaszkowata głowa z kłami, wielkie rogi, żółte oczy, zardzewiałe łańcuchy i okowy.
+- **Okno litości** wygląda jak okno handlu z osadnikiem, z przyciskami „Daruj życie” i „Odejdź” — po polsku.
+- **Kości olbrzymów w jeziorach Kanionów** w skali tytanów: czaszki ~45 bloków, klatki żeber ~130, dłonie ~100 wystające nad wodę,
+  kręgosłupy, kości udowe — z kręgami, zębami, pęknięciami, glonami i rafą. Jeziora szersze i głębsze (do ~210).
+  (Nowe kości i jeziora w nowo odkrytych terenach.)
+
 ## Zmiany w 0.18.3
 - **Deski drewien krain mają własny charakter** — inne kolory niż drewna z gry i własny słój; część z wzorem:
   Sosna Północna (sęki, smoła, gwoździe), Żelazodrzew (stalowe deski z nitami), Runiczny Dąb (świecące runy), Jarzębina (cynamonowa
