@@ -45,6 +45,15 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.18.3
+- **Deski drewien krain mają własny charakter** — inne kolory niż drewna z gry i własny słój; część z wzorem:
+  Sosna Północna (sęki, smoła, gwoździe), Żelazodrzew (stalowe deski z nitami), Runiczny Dąb (świecące runy), Jarzębina (cynamonowa
+  z czerwonymi plamkami), Złote Drzewo Świtu (złoto z połyskującym słojem), Różany Wiąz (śliwkowy z pnączem i różyczkami), Perłowa
+  Wierzba (opalizujący falisty słój), Martwy Jesion (spękany, srebrny), Kościane Drzewo (porowaty słój kości), Żarowe Drzewo
+  (tlące się żyłki), Węglowiec (zwęglony). Wszystkie wyroby z tych desek (schody, płyty, płoty, furtki, przyciski, drzwi…) też.
+- **Nowe ikony tabliczek, wiszących tabliczek i łódek** — każde drewno ma inny kształt tabliczki, godło i łódkę
+  (np. drakkar z tarczami, złoty łabędź, kościec z czaszką, muszla, okuty kadłub).
+
 ## Zmiany w 0.18.2
 - **Nowe, kreatywniejsze drzwi i włazy** (6 drewien):
   - **Żelazodrzew** — po deskach rośnie kute żelazne drzewo z konarami i korzeniami, w koronie okrągły judasz,
