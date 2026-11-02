@@ -45,6 +45,15 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.18.2
+- **Nowe, kreatywniejsze drzwi i włazy** (6 drewien):
+  - **Żelazodrzew** — po deskach rośnie kute żelazne drzewo z konarami i korzeniami, w koronie okrągły judasz,
+  - **Jarzębina** — drzwi z okrągłych żerdzi, w górze ochronny krzyż z gałązek jarzębiny owinięty czerwoną nicią, kiście jagód,
+  - **Złote Drzewo Świtu** — wschód słońca na całych drzwiach: słońce nad horyzontem i witrażowe promienie,
+  - **Różany Wiąz** — ostry łuk, witraż w kształcie róży i pnącze z kolcami i kwitnącymi różami,
+  - **Martwy Jesion** — plecione z suchych gałęzi, spięte sznurem, z kruczym amuletem z piór i ptasiej czaszki,
+  - **Sosna Północna** — deski w jodełkę i kute zawiasy zakończone smoczymi łbami.
+
 ## Zmiany w 0.18.1
 - **Każde drzwi i każdy właz wyglądają inaczej** (jak w zwykłym Minecrafcie), z wzorem pasującym do drewna i krainy:
   Żelazodrzew — okucia, nity i zakratowane okienko; Runiczny Dąb — świecąca runa; Jarzębina — trójkątne okienko i czerwone jagody;
