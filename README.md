@@ -45,6 +45,14 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.18.1
+- **Każde drzwi i każdy właz wyglądają inaczej** (jak w zwykłym Minecrafcie), z wzorem pasującym do drewna i krainy:
+  Żelazodrzew — okucia, nity i zakratowane okienko; Runiczny Dąb — świecąca runa; Jarzębina — trójkątne okienko i czerwone jagody;
+  Złote Drzewo Świtu — okno-słońce i złocenia; Różany Wiąz — kratka i różyczka; Perłowa Wierzba — ażur jak zwisające gałązki;
+  Martwy Jesion — połamane deski i zardzewiałe gwoździe; Kościane Drzewo — żebra i czaszka; Żarowe Drzewo — żarzące się pęknięcia
+  i krata nad żarem; Węglowiec — zwęglone deski i wąska szczelina; Bursztynowiec — bursztynowe okienko; deski smołowane — okrągły
+  bulaj jak na drakkarze i uchwyt z liny.
+
 ## Zmiany w 0.18.0
 - **Rzadsze budowle** — koniec z budowlą co kilka kroków:
   - **Midgard**: jedno wspólne losowanie budowli (strażnica, znicz, krąg menhirów, kurhan, kuźnia, długi dom, gród, świątynia) —
