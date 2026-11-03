@@ -45,6 +45,17 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.19.3
+- **Animacje run** (przygotowane pod stół runiczny, który jest w budowie): 21 własnych animacji, każda w kolorze swojej runy —
+  krąg runiczny, wyskakujący znak, fala, piorun, lodowe więzienie, korzenie Yggdrasila, skrzydła Walkirii, wybuch ognia,
+  znacznik długu, strumień dusz, nici Norn, zryw wiatru, słońce, stopień w powietrzu, tarcza Tyra, pocisk ducha, nić Mimira,
+  słup przywołania, taran, cięcie cienia, rycie runy.
+- **Dwie wersje do porównania:**
+  - wersja 2 (domyślna) — wszystko z kostek i pikseli, jak z Minecrafta,
+  - wersja 1 — gładkie, świecące.
+- **Obejrzyj w grze:** `/runy pokaz <animacja>` (np. `/runy pokaz skrzydla`, `/runy pokaz piorun`, `/runy pokaz lod` — celuj w stwora),
+  przełącz wersję: `/runy styl 1` albo `/runy styl 2`.
+
 ## Zmiany w 0.19.2
 - **Szronogryz** — nowy topór, który wraca do ręki:
   - **rzut**: przytrzymaj PPM i puść — topór leci, wirując,
