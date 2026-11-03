@@ -45,6 +45,14 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.19.1
+- **Oswajanie Białego Wilka Strażniczego i Rysia Szeptorogiego** (Żelazny Las w Jotunheimie): karm je **surowym mięsem
+  Żelaznego Lasu** (średnio co trzeci kawałek zdobywa zaufanie — serduszka). Oswojony:
+  - chodzi za tobą, a gdy zostanie daleko, dobiega (pojawia się przy tobie),
+  - **PPM pustą ręką** — siad / chodź,
+  - broni cię: atakuje to, co cię zrani, i to, co ty atakujesz,
+  - karmienie mięsem go leczy; nie znika ze świata.
+
 ## Zmiany w 0.19.0
 - **Ciosy tytanów trafiają w ziemię**: pięść, miecz i maczuga schodzą z zamachu aż do gruntu tam, gdzie stoi gracz —
   z wybuchem, pyłem, wstrząsem i kraterem w terenie.
