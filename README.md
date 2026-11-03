@@ -45,6 +45,16 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.19.2
+- **Szronogryz** — nowy topór, który wraca do ręki:
+  - **rzut**: przytrzymaj PPM i puść — topór leci, wirując,
+  - **wbija się** w ścianę albo w stwora: zostaje w nim i trzyma go w lodzie (zamrożenie i mocne spowolnienie),
+  - **klawisz R** przywołuje topór (można zmienić w Opcjach → Sterowanie): wyrywa się i wraca łukiem do ręki,
+    raniąc i mrożąc wszystko po drodze,
+  - zwykłe cięcie i rąbanie jak toporem z Helgrindu; własny model w locie i własne dźwięki,
+  - przepis: 3 Sztabki Szronowego Srebra, Wieczny Lód, Sztabka Helgrindu i Kość Helu
+    (`S I S` / `S H _` / `_ B _`); jest też w `/gear`.
+
 ## Zmiany w 0.19.1
 - **Oswajanie Białego Wilka Strażniczego i Rysia Szeptorogiego** (Żelazny Las w Jotunheimie): karm je **surowym mięsem
   Żelaznego Lasu** (średnio co trzeci kawałek zdobywa zaufanie — serduszka). Oswojony:
