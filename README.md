@@ -45,6 +45,11 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.19.4
+- **Jaja spawnu stworzeń jezior** (Świetlik Płetwiasty, Szklisty Węgorz, Kryształowa Płaszczka, Zorzowa Meduza, Konik Rafowy)
+  mają już tekstury i polskie nazwy.
+- **Stworzenia wodne duszą się na lądzie** jak ryby z gry: 10 sekund powietrza, potem tracą życie; na ziemi podskakują.
+
 ## Zmiany w 0.19.3
 - **Animacje run** (przygotowane pod stół runiczny, który jest w budowie): 21 własnych animacji, każda w kolorze swojej runy —
   krąg runiczny, wyskakujący znak, fala, piorun, lodowe więzienie, korzenie Yggdrasila, skrzydła Walkirii, wybuch ognia,
