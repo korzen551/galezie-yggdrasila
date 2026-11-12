@@ -45,10 +45,13 @@ Wystarczy wtedy zamknąć i ponownie uruchomić grę.
   latającej wyspie (~190–200 bloków), w środku beczki z łupem. Ręcznie: `/place structure yggdrasil:dawn_temple`.
 - Dziczyzna z Zająca Obłoków, Złotego Pawia, Lisa Świtu, Salamandry i Mchowca; naprawione łupy nowych mobów Świtu.
 
+## Zmiany w 0.19.6
+- Cofnięta zmiana odśmiecacza z 0.19.5: ZGC był już kiedyś mierzony i w Midgardzie dawał ok. 45 FPS zamiast ok. 200. Profil launchera wraca do sprawdzonych ustawień G1. Poprawka awarii i ustawienia przeciw przycięciom zostają.
+
 ## Zmiany w 0.19.5
 - Naprawiona awaria (biały ekran i wyrzucenie z gry) przy szybkim locie po Wyspach Świtu: silnik światła czytał sekcję, która właśnie została usunięta.
 - Mniej przycięć: przy pierwszym uruchomieniu mod przestawia „priorytet aktualizacji chunków” na budowanie w tle (dotąd zmiany bloków blokowały klatki) i ogranicza mieszanie biomów do 5×5 (wcześniej 15×15, bardzo drogie w krainach wysokich na kilka tysięcy bloków). Te ustawienia można potem zmienić w opcjach.
-- Profil launchera z modem używa teraz odśmiecacza ZGC zamiast G1, więc przerwy na sprzątanie pamięci trwają poniżej milisekundy.
+- (Zmiana odśmiecacza na ZGC cofnięta w 0.19.6.)
 
 ## Zmiany w 0.19.4
 - **Jaja spawnu stworzeń jezior** (Świetlik Płetwiasty, Szklisty Węgorz, Kryształowa Płaszczka, Zorzowa Meduza, Konik Rafowy)
